@@ -1,0 +1,50 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+  body {
+  background-color: #ffa8a8;
+}
+
+#red {
+  color:red;
+}
+
+#orange {
+  color:orange;
+}
+
+
+#yellow {
+  color:yellow;
+}
+
+
+#green {
+  color:green;
+}
+
+
+#blue {
+  color:blue;
+}
+
+
+#indigo {
+  color:indigo;
+}
+
+
+#violet{
+  color:violet;
+}
+
+.color{
+  color:red;
+}
+
+#me{
+  width: 80%;
+  height: 80%;
+}
